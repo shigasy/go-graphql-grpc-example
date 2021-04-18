@@ -5,7 +5,7 @@ import (
 	"errors"
 
 	// pb "go-graphql-grpc-example/pb/cat.pb"
-	pb "go-graphql-grpc-example/pb"
+	pb "github.com/shigasy/go-graphql-grpc-example/pb"
 )
 
 type MyCatService struct {
