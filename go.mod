@@ -1,4 +1,5 @@
-module go-graphql-grpc-example
+// module go-graphql-grpc-example
+module "github.com/shigasy/go-graphql-grpc-example"
 
 go 1.16
 

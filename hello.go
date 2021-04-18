@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	test "go-graphql-grpc-example/test"
+
+	test "github.com/shigasy/go-graphql-grpc-example/test"
 )
 
 func main() {
